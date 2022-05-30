@@ -1,0 +1,38 @@
+
+
+.form
+{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+}
+.form label 
+{
+    font-size: 20px;
+    padding: 0 20px;
+}
+.form input 
+{
+    width: 200px;
+    margin-bottom: 20px;
+}
+.form .data 
+{
+    margin-left: 20px;
+}
+.btn-sign
+{
+    padding: 10px 20px;
+    margin: 60px auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.searchmatch
+{
+    color: #777;
+    font-size: 16px;
+}
